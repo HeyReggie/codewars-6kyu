@@ -1,4 +1,4 @@
-// Solution for Take a 10 Minute Walk Kata
+// Take a 10 Minute Walk
 // Link to Kata: https://www.codewars.com/kata/54da539698b8a2ad76000228
 
 // Solution:

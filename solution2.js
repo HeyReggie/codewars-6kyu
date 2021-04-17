@@ -1,5 +1,5 @@
-// Replace With Alphabet Position Kata
-// Link: https://www.codewars.com/kata/546f922b54af40e1e90001da
+// Replace With Alphabet Position
+// Link to Kata: https://www.codewars.com/kata/546f922b54af40e1e90001da
 
 // Solution:
 
