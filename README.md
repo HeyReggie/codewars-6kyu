@@ -8,3 +8,6 @@ Link: https://www.codewars.com/kata/546f922b54af40e1e90001da
 
 Solution 3 - Persistent Bugger
 Link: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+
+Solution 4 - Duplicate Encoder
+Link: https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
