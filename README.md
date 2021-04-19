@@ -14,3 +14,6 @@ Link: https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
 
 Solution 5 - Unique in Order
 Link: https://www.codewars.com/kata/54e6533c92449cc251001667
+
+Solution 6 - Dubstep
+Link: https://www.codewars.com/kata/551dc350bf4e526099000ae5
