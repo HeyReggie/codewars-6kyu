@@ -20,3 +20,6 @@ Link: https://www.codewars.com/kata/551dc350bf4e526099000ae5
 
 Solution 7 - Tribonacci Sequence
 Link: https://www.codewars.com/kata/556deca17c58da83c00002db
+
+Solution 8 - Your order, please
+Link: https://www.codewars.com/kata/55c45be3b2079eccff00010f
