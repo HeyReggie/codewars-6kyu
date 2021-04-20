@@ -23,3 +23,6 @@ Link: https://www.codewars.com/kata/556deca17c58da83c00002db
 
 Solution 8 - Your order, please
 Link: https://www.codewars.com/kata/55c45be3b2079eccff00010f
+
+Solution 9 - Counting Duplicates
+Link: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
