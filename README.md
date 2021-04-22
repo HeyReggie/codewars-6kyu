@@ -26,3 +26,6 @@ Link: https://www.codewars.com/kata/55c45be3b2079eccff00010f
 
 Solution 9 - Counting Duplicates  
 Link: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+
+Solution 10 - IQ Test  
+Link: https://www.codewars.com/kata/552c028c030765286c00007d
