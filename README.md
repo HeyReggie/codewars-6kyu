@@ -33,5 +33,5 @@ Link: https://www.codewars.com/kata/552c028c030765286c00007d
 Solution 11 - Playing with digits  
 Link: https://www.codewars.com/kata/5552101f47fc5178b1000050
 
-Solution 12 - Find The Parity Outlier
+Solution 12 - Find The Parity Outlier  
 Link: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
