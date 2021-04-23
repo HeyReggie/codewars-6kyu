@@ -35,3 +35,6 @@ Link: https://www.codewars.com/kata/5552101f47fc5178b1000050
 
 Solution 12 - Find The Parity Outlier  
 Link: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+
+Solution 13 - Does my number look big in this?  
+Link: https://www.codewars.com/kata/5287e858c6b5a9678200083c
