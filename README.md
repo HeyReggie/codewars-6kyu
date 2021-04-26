@@ -41,3 +41,6 @@ Link: https://www.codewars.com/kata/5287e858c6b5a9678200083c
 
 Solution 14 - Is a number prime?  
 Link: https://www.codewars.com/kata/5262119038c0985a5b00029f
+
+Solution 15 - Find the unique number  
+Link: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
