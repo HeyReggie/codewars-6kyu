@@ -59,3 +59,6 @@ Link: https://www.codewars.com/kata/526571aae218b8ee490006f4
 
 Solution 20 - Equal Sides of An Array
 Link: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+
+Solution 21 - Detect Pangram
+Link: https://www.codewars.com/kata/545cedaa9943f7fe7b000048
