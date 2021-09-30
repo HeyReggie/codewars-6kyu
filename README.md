@@ -62,3 +62,6 @@ Link: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 
 Solution 21 - Detect Pangram
 Link: https://www.codewars.com/kata/545cedaa9943f7fe7b000048
+
+Solution 22 - Are they the "same"?
+Link: https://www.codewars.com/kata/550498447451fbbd7600041c
