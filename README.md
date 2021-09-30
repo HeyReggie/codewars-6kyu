@@ -47,3 +47,6 @@ Link: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 
 Solution 16 - Vasya Clerk
 Link: https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8
+
+Solution 17 - Array combinations
+Link: https://www.codewars.com/kata/59e66e48fc3c499ec5000103
