@@ -56,3 +56,6 @@ Link: https://www.codewars.com/kata/57eb8fcdf670e99d9b000272
 
 Solution 19 - Bit Counting
 Link: https://www.codewars.com/kata/526571aae218b8ee490006f4
+
+Solution 20 - Equal Sides of An Array
+Link: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
