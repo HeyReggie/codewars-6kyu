@@ -53,3 +53,6 @@ Link: https://www.codewars.com/kata/59e66e48fc3c499ec5000103
 
 Solution 18 - Highest Scoring Word
 Link: https://www.codewars.com/kata/57eb8fcdf670e99d9b000272
+
+Solution 19 - Bit Counting
+Link: https://www.codewars.com/kata/526571aae218b8ee490006f4
