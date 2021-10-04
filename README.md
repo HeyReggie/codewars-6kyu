@@ -65,3 +65,6 @@ Link: https://www.codewars.com/kata/545cedaa9943f7fe7b000048
 
 Solution 22 - Are they the "same"?
 Link: https://www.codewars.com/kata/550498447451fbbd7600041c
+
+Solution 23 - Find the missing letter  
+Link: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
