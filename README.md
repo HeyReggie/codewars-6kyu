@@ -45,7 +45,7 @@ Link: https://www.codewars.com/kata/5262119038c0985a5b00029f
 Solution 15 - Find the unique number  
 Link: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 
-Solution 16 - Vasya Clerk     
+Solution 16 - Vasya Clerk  
 Link: https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8
 
 Solution 17 - Array combinations  
@@ -54,10 +54,10 @@ Link: https://www.codewars.com/kata/59e66e48fc3c499ec5000103
 Solution 18 - Highest Scoring Word  
 Link: https://www.codewars.com/kata/57eb8fcdf670e99d9b000272
 
-Solution 19 - Bit Counting    
+Solution 19 - Bit Counting  
 Link: https://www.codewars.com/kata/526571aae218b8ee490006f4
 
-Solution 20 - Equal Sides of An Array   
+Solution 20 - Equal Sides of An Array  
 Link: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 
 Solution 21 - Detect Pangram  
@@ -68,3 +68,6 @@ Link: https://www.codewars.com/kata/550498447451fbbd7600041c
 
 Solution 23 - Find the missing letter  
 Link: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
+
+Solution 24 - Format a string of names like 'Bart, Lisa & Maggie'
+Link: https://www.codewars.com/kata/53368a47e38700bd8300030d/javascript
