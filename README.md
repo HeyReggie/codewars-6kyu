@@ -71,3 +71,6 @@ Link: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
 
 Solution 24 - Format a string of names like 'Bart, Lisa & Maggie'
 Link: https://www.codewars.com/kata/53368a47e38700bd8300030d/javascript
+
+Solution 25 - Sort the odd
+Link: https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/javascript
